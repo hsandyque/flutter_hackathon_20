@@ -12,3 +12,6 @@ Google API keys are needed at the following files:
 - /ios/Runner/GoogleService-Info.plist
 - /android/app/google-services.json
 - /android/app/src/main/AndroidManifest.xml
+
+# used Tech
+https://github.com/ShekarMudaliyar/neon_mode_flutter
